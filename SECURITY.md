@@ -1,11 +1,16 @@
 # Security Policy
 
-If you believe you have found a security vulnerability, we encourage you to let us know right away.
+## Supported Versions
 
-We will investigate all legitimate reports and do our best to quickly fix the problem.
+| Version | Supported          |
+| ------- | ------------------ |
+| 0.1.x   | :white_check_mark: |
 
-Our preference is that you make use of GitHub's private vulnerability reporting feature to disclose potential security vulnerabilities in our Open Source Software.
+## Reporting a Vulnerability
 
-To do this, please visit the [Security tab](https://github.com/iamsrikanthnani/pluely/security) of the repository and click the **"Report a vulnerability"** button.
+We take the security of Pluely and the privacy of our users very seriously.
 
-For urgent matters, you can also contact us at [support@pluely.com](mailto:support@pluely.com).
+If you believe you have found a security vulnerability in Pluely:
+1. Please do **NOT** open a public issue.
+2. Email the maintainer directly at `bitzindev@proton.me` with technical details, steps to reproduce, and attack scope.
+3. We will respond within 48 hours to confirm receipt and provide remediation timelines.
